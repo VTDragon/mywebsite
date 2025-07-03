@@ -6,7 +6,7 @@ body{
     text-align: center;
     font-family: arial;
     background-color: #94BCB2;
-    color:#000000;
+    color:#3E2C57;
 
 }
 
@@ -23,5 +23,25 @@ body{
     a:any-link {
   color: white
 }
+}
 
+#scrolltotop{
+    display: none;
+    opacity: 5;
+    background-color: #3E2C57;
+    padding: 0 20px;
+    color: white;
+    width: 26px;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.spacer.v20{
+    height: 20px;
+}
+.spacer.v40{
+    height: 40px;
+}
+.spacer.v80{
+    height: 80px;
 }
